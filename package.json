@@ -1,5 +1,5 @@
 { "name": "empty-element"
-, "version": "0.0.0"
+, "version": "1.0.0"
 , "description": "Empty a DOM element."
 , "license": "MIT"
 , "repository": "goto-bus-stop/empty-element"
