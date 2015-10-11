@@ -1,0 +1,16 @@
+{ "name": "empty-element"
+, "version": "0.0.0"
+, "description": "Empty a DOM element."
+, "license": "MIT"
+, "repository": "goto-bus-stop/empty-element"
+, "author": "René Kooi <rene@kooi.me>"
+, "scripts":
+  { "test": "standard" }
+, "files": [ "index.js" ]
+, "keywords":
+  [ "dom"
+  , "element"
+  , "empty"
+  , "clear" ]
+, "devDependencies":
+  { "standard": "*" } }
