@@ -13,4 +13,4 @@
   , "empty"
   , "clear" ]
 , "devDependencies":
-  { "standard": "*" } }
+  { "standard": ">=10.0.1" } }
